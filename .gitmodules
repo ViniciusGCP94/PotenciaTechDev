@@ -1,0 +1,3 @@
+[submodule "javacript/quiz-fatos-historicos"]
+	path = javacript/quiz-fatos-historicos
+	url = https://github.com/ViniciusGCP94/PotenciaTechDev.git
